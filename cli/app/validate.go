@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/TIBCOSoftware/flogo-cli/util"
-	"github.com/TIBCOSoftware/mashling-cli/cli"
+	"github.com/jpark800/rest1/cli/cli"
 )
 
 var optValidate = &cli.OptionInfo{

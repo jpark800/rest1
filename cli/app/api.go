@@ -18,11 +18,11 @@ import (
 	"github.com/TIBCOSoftware/flogo-lib/app"
 	faction "github.com/TIBCOSoftware/flogo-lib/core/action"
 	ftrigger "github.com/TIBCOSoftware/flogo-lib/core/trigger"
-	"github.com/TIBCOSoftware/mashling-lib/model"
-	"github.com/TIBCOSoftware/mashling-lib/types"
-	"github.com/TIBCOSoftware/mashling-lib/util"
+	"github.com/jpark800/rest1/lib/model"
+	"github.com/jpark800/rest1/lib/types"
+	"github.com/jpark800/rest1/lib/util"
 	"github.com/xeipuuv/gojsonschema"
-	assets "github.com/TIBCOSoftware/mashling-cli/assets"
+	assets "github.com/jpark800/rest1/cli/assets"
 )
 
 // CreateMashling creates a gateway application from the specified json gateway descriptor

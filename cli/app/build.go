@@ -7,8 +7,8 @@ import (
 	"path"
 
 	"github.com/TIBCOSoftware/flogo-cli/util"
-	"github.com/TIBCOSoftware/mashling-cli/cli"
-	"github.com/TIBCOSoftware/mashling-lib/util"
+	"github.com/jpark800/rest1/cli/cli"
+	"github.com/jpark800/rest1/lib/util"
 )
 
 var optBuild = &cli.OptionInfo{

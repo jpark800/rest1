@@ -13,9 +13,9 @@ import (
 	"github.com/TIBCOSoftware/flogo-lib/app"
 	faction "github.com/TIBCOSoftware/flogo-lib/core/action"
 	ftrigger "github.com/TIBCOSoftware/flogo-lib/core/trigger"
-	condition "github.com/TIBCOSoftware/mashling-lib/conditions"
-	"github.com/TIBCOSoftware/mashling-lib/types"
-	"github.com/TIBCOSoftware/mashling-lib/util"
+	condition "github.com/jpark800/rest1/lib/conditions"
+	"github.com/jpark800/rest1/lib/types"
+	"github.com/jpark800/rest1/lib/util"
 )
 
 // ParseGatewayDescriptor parse the application descriptor

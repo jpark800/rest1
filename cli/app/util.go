@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/TIBCOSoftware/flogo-cli/env"
 	"github.com/TIBCOSoftware/flogo-cli/util"
-	"github.com/TIBCOSoftware/mashling-cli/cli"
+	"github.com/jpark800/rest1/cli/cli"
 	"io"
 	"os"
 	"strconv"

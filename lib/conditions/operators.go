@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/TIBCOSoftware/flogo-lib/logger"
-	"github.com/TIBCOSoftware/mashling-lib/util"
+	"github.com/jpark800/rest1/lib/util"
 )
 
 var fLogger = logger.GetLogger("event-link-operator")

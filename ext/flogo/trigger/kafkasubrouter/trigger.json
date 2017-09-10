@@ -1,7 +1,7 @@
 {
   "name": "tibco-kafkasub-router",
   "type": "flogo:trigger",
-  "ref": "github.com/TIBCOSoftware/mashling-lib/contrib/trigger/kafkasubrouter",
+  "ref": "github.com/jpark800/rest1/ext/flogo/trigger/kafkasubrouter",
   "version": "0.0.1",
   "title": "Receive Kafka Messages",
   "author": "Anant Ambhaikar <aambhaik@tibco.com>",

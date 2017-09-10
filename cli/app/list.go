@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/TIBCOSoftware/mashling-cli/cli"
+	"github.com/jpark800/rest1/cli/cli"
 )
 
 var optList = &cli.OptionInfo{
